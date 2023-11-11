@@ -1,6 +1,6 @@
 # pwning
 
 
-# Buffer overflow leak address
+# Buffer overflows
 
-* [overflow leaking address bypassing ASLR](https://github.com/Vsmzin/pwning/blob/main/buffer_overflow/overflow_leaking_address.py)
+* [Buffer overflow bypass ASLR leaking a address](https://github.com/Vsmzin/pwning/blob/main/buffer_overflow/overflow_leaking_address.py)
