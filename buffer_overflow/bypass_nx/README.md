@@ -1,6 +1,6 @@
 # Instructions
 
-#### Download and Compile for 32-bits version with NX enabled
+#### Download Source and Compile for 32-bits version with NX enabled
 
 ```
 gcc nx_bypass.c -m32 -o nx_bypass -fno-stack-protector
