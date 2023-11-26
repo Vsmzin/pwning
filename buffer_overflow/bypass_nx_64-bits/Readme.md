@@ -14,4 +14,4 @@ echo 0 | sudo tee /proc/sys/kernel/randomize_va_space
 * [Exploit python](https://raw.githubusercontent.com/Vsmzin/pwning/main/buffer_overflow/bypass_nx_64-bits/exploit_bypass_nx-64-bits.py)
 
 
-![image](https://github.com/Vsmzin/pwning/assets/65165845/8f4b8ef7-57c8-4fb0-a728-1265dc16c721)
+
