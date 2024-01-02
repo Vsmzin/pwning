@@ -3,7 +3,7 @@
 #### Download Source and Compile for 64-bits version with NX enabled
 
 ```
-gcc nx_bypass.c -m64 -o nx_bypass -fno-stack-protector
+gcc bypass_nx_64-bits.c -m64 -o nx_bypass_64-bits -fno-stack-protector
 ```
 #### Disable ASLR
 ```
